@@ -1,1 +1,1 @@
-'this is a new readme file for the git test! woohoo woohoo woohoo'
+"this is jmccool's first git project"
